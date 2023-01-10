@@ -2,9 +2,9 @@ plugins {
     `java-library`
 }
 dependencies {                              
-    api("junit:junit:4.13")
-    implementation("junit:junit:4.13")
-    testImplementation("junit:junit:4.13")
+    api("junit:junit:4.13.2")
+    implementation("junit:junit:4.13.2")
+    testImplementation("junit:junit:4.13.2")
 }
 configurations {                            
     implementation {
