@@ -13,5 +13,5 @@ repositories {
 dependencies {
   testCompile 'org.junit.vintage:junit-vintage-engine:5.5.2'
   testCompile 'org.springframework.boot:spring-boot-starter-test:2.2.10.RELEASE'
-  compile 'org.apiguardian:apiguardian-api:1.1.0'
+  compile 'org.apiguardian:apiguardian-api:1.1.2'
 }
