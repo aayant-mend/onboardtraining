@@ -78,7 +78,7 @@ configurations {
 }
 dependencies {
     String uberTestClientVersion = "2.3.2"
-    String daggerVersion = "2.32"
+    String daggerVersion = "2.44.2"
 
     annotationProcessor "com.google.dagger:dagger-compiler:$daggerVersion"
 
