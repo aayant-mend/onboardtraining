@@ -82,7 +82,7 @@ dependencies {
 
     annotationProcessor "com.google.dagger:dagger-compiler:$daggerVersion"
 
-    implementation('com.jayway.jsonpath:json-path:2.5.0') {
+    implementation('com.jayway.jsonpath:json-path:2.7.0') {
         // vulnerable lib, not required as we use Gson
         exclude group: 'net.minidev', module: 'json-smart'
     }
