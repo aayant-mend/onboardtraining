@@ -4,7 +4,7 @@ djangorestframework==3.14.0
 django-filter==2.4.0
 django-widget-tweaks==1.4.12
 Markdown==3.4.1
-phonenumbers==8.9.10
+phonenumbers==8.13.4
 Pygments==2.14.0
 pytz==2018.5
 requests==2.20.0
