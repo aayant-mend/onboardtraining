@@ -103,13 +103,13 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.7.1'
     testImplementation 'org.mockito:mockito-core:3.3.3'
     testImplementation 'org.mockito:mockito-inline:2.13.0'
-    testImplementation 'org.assertj:assertj-core:3.19.0'
+    testImplementation 'org.assertj:assertj-core:3.24.1'
     testImplementation 'org.mockito:mockito-junit-jupiter:3.8.0'
     testImplementation 'uk.org.lidalia:slf4j-test:1.2.0'
     testImplementation 'org.json:json:20200518'
 
     acceptanceImplementation 'io.cucumber:cucumber-picocontainer:6.11.0'
-    acceptanceImplementation 'org.assertj:assertj-core:3.19.0'
+    acceptanceImplementation 'org.assertj:assertj-core:3.24.1'
 }
 
 // build a fat jar - with a constant name for Bogie deployment :(
