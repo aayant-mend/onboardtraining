@@ -6,6 +6,6 @@ django-widget-tweaks==1.4.12
 Markdown==3.4.1
 phonenumbers==8.13.4
 Pygments==2.14.0
-pytz==2018.5
+pytz==2018.9
 requests==2.20.0
 threadfix-api==1.1.1
