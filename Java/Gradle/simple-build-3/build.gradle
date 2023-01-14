@@ -87,7 +87,7 @@ dependencies {
         exclude group: 'net.minidev', module: 'json-smart'
     }
     implementation "com.google.dagger:dagger:$daggerVersion"
-    implementation platform('software.amazon.awssdk:bom:2.15.82')
+    implementation platform('software.amazon.awssdk:bom:2.19.17')
     implementation 'software.amazon.awssdk:apache-client'
     implementation 'software.amazon.awssdk:sqs'
     implementation 'com.amazonaws:aws-lambda-java-core:1.2.2'
