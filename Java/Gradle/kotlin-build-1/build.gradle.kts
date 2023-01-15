@@ -35,7 +35,7 @@ dependencies {
 	implementation("com.kreait.slack:slack-spring-test-api-client:1.0.0")
 	implementation("com.github.kittinunf.fuel:fuel:2.3.1")
 	implementation("com.github.kittinunf.fuel:fuel-jackson:2.2.3")
-	testImplementation("com.kreait.slack:slack-jackson-dto-test:1.0.0")
+	testImplementation("com.kreait.slack:slack-jackson-dto-test:2.0.0")
 	implementation("io.springfox:springfox-swagger2:$swaggerVersion")
 	implementation("io.springfox:springfox-swagger-ui:$swaggerVersion")
 
