@@ -32,7 +32,7 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("com.fasterxml.jackson.modules:jackson-module-kotlin")
 	implementation("com.kreait.slack:slack-spring-boot-starter:2.0.0")
-	implementation("com.kreait.slack:slack-spring-test-api-client:1.0.0")
+	implementation("com.kreait.slack:slack-spring-test-api-client:2.0.0")
 	implementation("com.github.kittinunf.fuel:fuel:2.3.1")
 	implementation("com.github.kittinunf.fuel:fuel-jackson:2.2.3")
 	testImplementation("com.kreait.slack:slack-jackson-dto-test:2.0.0")
