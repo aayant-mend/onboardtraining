@@ -17,7 +17,7 @@ repositories {
 }
 
 // region DEPENDENCIES VERSIONS
-val swaggerVersion = "2.9.2"
+val swaggerVersion = "2.10.5"
 
 dependencies {
 	
